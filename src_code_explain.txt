@@ -1,1 +1,2 @@
-https://medium.com/analytics-vidhya/optical-character-recognition-using-tensorflow-533061285dd3
+https://medium.com/analytics-vidhya/optical-character-recognition-using-tensorflow-533061285dd3 (kurang lengkap)
+https://pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/ (lengkap)
